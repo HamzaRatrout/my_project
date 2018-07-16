@@ -1,0 +1,80 @@
+body{
+    background-image:url("/home/code/Desktop/photos/green2.jpg");
+}
+h1{
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    float:top;
+    margin-left:20%;
+    display: inline-block;
+    font-size: 42px;
+    border-radius: 12px;
+    margin-right:20%;
+}
+#about{
+    background-color:#09560E;
+    color: white;
+    padding: 15px 42px;
+    display: inline-block;
+    font-size: 42px;
+    border-radius: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left:17%;
+    margin-top:5%;
+}
+#hob{
+    background-color:#09560E;
+    color: white;
+    padding: 15px 42px;
+    display: inline-block;
+    font-size: 42px;
+    border-radius: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left:17%;
+    margin-top:5%;
+}
+#pro{
+    background-color:#09560E;
+    color: white;
+    padding: 15px 42px;
+    display: inline-block;
+    font-size: 42px;
+    border-radius: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left:38%;
+    margin-top:5%;
+}
+#home{
+    background-color:#42B309;
+    color: white;
+    padding: 15px 42px;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    float:left;
+}
+
+
+#about:hover {
+	background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+#hob:hover {
+	background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+#pro:hover {
+	background-color: white; 
+    color: black; 
+    border: 2px solid #4CAF50;
+}
+
+

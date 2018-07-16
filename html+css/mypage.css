@@ -1,0 +1,56 @@
+.button{
+    background-color:#09560E;
+    color: white;
+    padding: 15px 42px;
+    display: inline-block;
+    font-size: 42px;
+    border-radius: 12px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-left:25%;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+
+}
+.button:hover {
+    background-color: #4CAF50;
+    color: black;
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+body{
+    background-image:url("/home/code/Desktop/photos/background1.jpgpng");
+}
+
+#my{
+    width:30%;
+    height:30%;
+    float:right;
+    padding:20px;
+    margin:0;
+}
+#f{
+    float:left;
+    width:10%;
+    height:10%;
+    margin-top:100px;
+}
+
+h1{
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px 32px;
+    float:top;
+    display: inline-block;
+    font-size: 42px;
+    border-radius: 12px;
+}
+p{
+    font-size:30px;
+    background:#8BF246;
+    text-decoration: none;
+    display: inline-block;
+    font-style:italic;
+    padding:20px;
+    border-radius: 12px;
+    margin-left:40px;
+    margin-top:30px;
