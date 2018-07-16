@@ -41,6 +41,5 @@ def random_shape():
 def clear_screen():
 	turtle.clear()
 turtle.onscreenclick(squares)  
-turtle.onkey(clear_screen, "c")	 
-print "como estas"  
+turtle.onkey(clear_screen, "c")	   
 turtle.done()
