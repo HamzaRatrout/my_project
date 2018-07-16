@@ -13,7 +13,7 @@ def draw_flower():
 	draw_circle("yellow",100)
 	draw_circle("green",100)
 	draw_circle("blue",100)
-	draw_circle("pink",100)
+	draw_circle("black",100)
 turtle.penup()
 turtle.backward(400)
 turtle.pendown()

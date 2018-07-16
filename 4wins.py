@@ -1,6 +1,7 @@
 import turtle , time
 from turtle import Turtle
 import math
+turtle.terminator()
 running=True
 SCREEM_WIDTH=turtle.getcanvas().winfo_width()/2
 SCREEN_HEIGHT=turtle.getcanvas().winfo_height()/2
@@ -100,4 +101,5 @@ coin2.xy(-590,300,"YELLOW")
 while running== True:
 	turtle.getscreen().update()
 	time.sleep(0.02)
+print "hi"
 turtle.exitonclick()
